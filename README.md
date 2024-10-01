@@ -1,5 +1,17 @@
+# Escolha o Idioma | Choose the Language
+[Português](#portugues) | [English](#english)
+
 # Fastlane para Flutter: Guia Completo e Extensivo 🚀📲
 
+---
+
+## Índice
+1. [Introdução](#introdução)
+2. [Configuração](#configuração)
+3. [Automação de Builds](#automação-de-builds)
+4. [Publicação Automática](#publicação-automática)
+5. [Testes Automatizados](#testes-automatizados)
+6. [Conclusão](#conclusão)
 ---
 
 ## **Introdução ao Fastlane** 🤔
